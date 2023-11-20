@@ -8,5 +8,6 @@ namespace MiniProjecteV1
 {
     internal class Tasca
     {
+        
     }
 }
